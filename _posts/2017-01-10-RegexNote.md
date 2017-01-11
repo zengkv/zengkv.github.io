@@ -14,8 +14,7 @@ description: js写的一个基于localStorage的key-value数据缓存程序
 
 <table>
   <thead>
-    <tr><th colspan="2">常用元字符<th colspan="2">常用限定符<th colspan="2">常用反义词</tr>
-  </thead>
+    <tr><th colspan="2">常用元字符<th colspan="2">常用限定符<th colspan="2">常用反义词
   <tbody>
     <tr><td> 代码 <td>  说明<td> 代码/语法 <td> 说明<td> 代码/语法 <td> 说明
     <tr><td> . <td> 匹配除换行符以外的任意字符<td> * <td> 重复零次或更多次<td> \W <td> 匹配任意不是字母，数字，下划线，汉字的字
@@ -25,7 +24,6 @@ description: js写的一个基于localStorage的key-value数据缓存程序
     <tr><td> \b <td> 匹配单词的开始或结束<td> {n,} <td> 重复n次或更多次<td> [^x] <td> 匹配除了x以外的任意字
     <tr><td> ^ <td> 匹配字符串的开始<td> {n,m} <td> 重复n到m次<td> [^aeiou] <td> 匹配除了aeiou这几个字母以外的任意字
     <tr><td> $ <td> 匹配字符串的结束<td><td><td><td>
-  </tbody>
 </table>
 
 
