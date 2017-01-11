@@ -11,9 +11,6 @@ description: js写的一个基于localStorage的key-value数据缓存程序
 
 # 正则表达式特殊字符
 
-
-| 
-
 <table>
   <thead>
     <tr><th colspan="2">常用元字符<th colspan="2">常用限定符<th colspan="2">常用反义词
