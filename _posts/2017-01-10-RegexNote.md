@@ -1,7 +1,16 @@
-# RegexNoe
+---
+layout: post
+title: RegexNote正则表达式笔记
+categories: [blog ]
+tags: [Regex, ]
+description: js写的一个基于localStorage的key-value数据缓存程序
+---
+
+# RegexNote
 正则表达式笔记
 
 # 正则表达式特殊字符
+
 
 <table>
   <thead>
@@ -18,6 +27,7 @@
     <tr><td> $ <td> 匹配字符串的结束<td><td><td><td>
   </tbody>
 </table>
+
 
 # 正则表达式语法
 
