@@ -27,10 +27,7 @@ zhihu_username: zengkv
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: redcarpet
-redcarpet:
-  input: GFM
-  extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
+
 highlighter: rouge
 
 gems: 
