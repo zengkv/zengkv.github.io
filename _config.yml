@@ -27,7 +27,7 @@ zhihu_username: zengkv
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: Redcarpet
+markdown: Maruku
 kramdown:
   input: GFM
 highlighter: rouge
