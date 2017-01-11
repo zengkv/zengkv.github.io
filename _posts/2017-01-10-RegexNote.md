@@ -28,6 +28,7 @@ description: js写的一个基于localStorage的key-value数据缓存程序
     <tr><td> $ <td> 匹配字符串的结束<td><td><td><td></td>
 </table>
 
+
 # 正则表达式语法
 
 >注:语法摘自轮子哥[构造正则表达式引擎](http://www.cppblog.com/vczh/archive/2008/05/22/50763.html)
