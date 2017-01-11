@@ -12,21 +12,20 @@ description: js写的一个基于localStorage的key-value数据缓存程序
 # 正则表达式特殊字符
 
 
+| 
+
 <table>
   <thead>
-    <tr><th colspan="2">常用元字符</th><th colspan="2">常用限定符</th><th colspan="2">常用反义词</th></tr>
-  </thead>
+    <tr><th colspan="2">常用元字符<th colspan="2">常用限定符<th colspan="2">常用反义词
   <tbody>
-    <tr><td> 代码 </td><td>  说明</td>                   <td> 代码/语法 </td> <td> 说明<td> 代码/语法 </td><td> 说明</td></tr>
-    <tr><td> . </td>  <td> 匹配除换行符以外的任意字符</td> <td> * </td>        <td> 重复零次或更多次<td> \W </td><td> 匹配任意不是字母，数字，下划线，汉字的字</td></tr>
-    <tr><td> \w </td> <td> 匹配字母或数字或下划线</td>    <td> + </td>        <td> 重复一次或更多次<td> \S </td><td> 匹配任意不是空白符的字</td></tr>
-    <tr><td> \s </td> <td> 匹配任意的空白符</td>         <td> ? </td>        <td> 重复零次或一次<td> \D </td><td> 匹配任意非数字的字</td></tr>
-    <tr><td> \d </td> <td> 匹配数字</td>                <td> {n} </td>      <td> 重复n次<td> \B </td><td> 匹配不是单词开头或结束的位</td></tr>
-    <tr><td> \b </td> <td> 匹配单词的开始或结束</td>      <td> {n,} </td>     <td> 重复n次或更多次<td> [^x] </td><td> 匹配除了x以外的任意字</td></tr>
-    <tr><td> ^ </td>  <td> 匹配字符串的开始</td>         <td> {n,m} </td>     <td> 重复n到m次<td> [^aeiou] </td><td> 匹配除了aeiou这几个字母以外的任意字</td></tr>
-    <tr><td> $ </td>  <td> 匹配字符串的结束</td>         <td></td>            <td></td><td></td><td></td></tr>
-  </tbody>
-</table>
+    <tr><td> 代码 <td>  说明<td> 代码/语法 <td> 说明<td> 代码/语法 <td> 说明
+    <tr><td> . <td> 匹配除换行符以外的任意字符<td> * <td> 重复零次或更多次<td> \W <td> 匹配任意不是字母，数字，下划线，汉字的字
+    <tr><td> \w <td> 匹配字母或数字或下划线<td> + <td> 重复一次或更多次<td> \S <td> 匹配任意不是空白符的字
+    <tr><td> \s <td> 匹配任意的空白符<td> ? <td> 重复零次或一次<td> \D <td> 匹配任意非数字的字
+    <tr><td> \d <td> 匹配数字<td> {n} <td> 重复n次<td> \B <td> 匹配不是单词开头或结束的位
+    <tr><td> \b <td> 匹配单词的开始或结束<td> {n,} <td> 重复n次或更多次<td> [^x] <td> 匹配除了x以外的任意字
+    <tr><td> ^ <td> 匹配字符串的开始<td> {n,m} <td> 重复n到m次<td> [^aeiou] <td> 匹配除了aeiou这几个字母以外的任意字
+    <tr><td> $ <td> 匹配字符串的结束<td><td><td><td></td></tr></tbody></table>
 
 
 # 正则表达式语法
