@@ -15,7 +15,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.ico
+favicon: /img/favicon.ico
 
 douban_username: zengkv
 twitter_username: zengkv_Lapland  
@@ -27,7 +27,7 @@ zhihu_username: zengkv
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: kramdown
+markdown: Redcarpet
 kramdown:
   input: GFM
 highlighter: rouge
