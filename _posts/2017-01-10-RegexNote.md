@@ -13,7 +13,7 @@ description: js写的一个基于localStorage的key-value数据缓存程序
 
 - [正则表达式特殊字符](#正则表达式特殊字符)
 - [字符集合[a-z]](#字符集合)
-- [并联串联[0-9][0-9]|[a-z]](#并联串联)
+- [并联串联<pre>[0-9][0-9]|[a-z]<pre>](#并联串联)
 - [重复```[0-9]{m,n},+,*```](#重复)
 - [表达式引用```(?:&lt;sec&gt;[a-z])(?:&lt;sec&gt;){2}```](#表达式引用)
 - [正向预查Windows(?=98|2000)](#正向预查)
@@ -101,5 +101,4 @@ description: js写的一个基于localStorage的key-value数据缓存程序
     <tr><td> \d <td> 匹配数字<td> {n} <td> 重复n次<td> \B <td> 匹配不是单词开头或结束的位
     <tr><td> \b <td> 匹配单词的开始或结束<td> {n,} <td> 重复n次或更多次<td> [^x] <td> 匹配除了x以外的任意字
     <tr><td> ^ <td> 匹配字符串的开始<td> {n,m} <td> 重复n到m次<td> [^aeiou] <td> 匹配除了aeiou这几个字母以外的任意字
-    <tr><td> $ <td> 匹配字符串的结束<td><td><td><td></td>
-</table>
+    <tr><td> $ <td> 匹配字符串的结束<td><td><td><td>
