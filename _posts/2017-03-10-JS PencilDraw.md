@@ -39,6 +39,7 @@ PencilDraw是在论文[Lu C, Xu L, Jia J. Combining sketch and tone for pencil d
  </script>
 ```
 [示例程序](http://zengkv.com/PencilDraw/)
+[git地址](https://github.com/zengkv/PencilDraw)
 ## 引用
 
 [1] [Lu C, Xu L, Jia J. Combining sketch and tone for pencil drawing production[C]](<http://www.cse.cuhk.edu.hk/leojia/projects/pencilsketch/pencil_drawing.htm>)
