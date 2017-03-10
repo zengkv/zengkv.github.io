@@ -23,8 +23,8 @@ PencilDraw是在论文[Lu C, Xu L, Jia J. Combining sketch and tone for pencil d
 目前只实现了获取S图, T图和最终效果图后续补充。
 
 <div align="center">
-	<img src="58.jpg" height="300"/>
-	<img src="58_s.jpg" height="300"/>
+	<img src="https://github.com/zengkv/PencilDraw/raw/master/58.jpg" height="300"/>
+	<img src="https://github.com/zengkv/PencilDraw/raw/master/58_s.jpg" height="300"/>
 </div>
 ## 运行
 ``` html
