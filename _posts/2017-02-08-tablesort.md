@@ -2,7 +2,7 @@
 layout: post
 title: tablesort 前端表格排序
 categories: [blog ]
-tags: [js, ]
+tags: [Js, ]
 description: fork自tristen/tablesort的一个轻量级无依赖的前端表格排序程序
 ---
 
