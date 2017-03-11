@@ -2,7 +2,7 @@
 layout: post
 title: JavaScript实现的图像素描风格化
 categories: [blog ]
-tags: [javascript, ]
+tags: [Js, ]
 description: JavaScript实现的图像素描风格化
 ---
 
